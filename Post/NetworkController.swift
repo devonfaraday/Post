@@ -46,3 +46,4 @@ class NetworkController {
 		return url
 	}
 }
+
